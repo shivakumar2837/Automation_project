@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-22T07:30:29Z" name="Default suite" finished-at="2022-04-22T07:31:45Z" duration-ms="75675">
+    <groups>
+    </groups>
+    <test started-at="2022-04-22T07:30:29Z" name="Default test" finished-at="2022-04-22T07:31:45Z" duration-ms="75675">
+      <class name="com.TestScriptTAP.TestAutomation">
+        <test-method is-config="true" signature="extendreport()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:00:29Z" name="extendreport" finished-at="2022-04-22T13:00:29Z" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extendreport -->
+        <test-method is-config="true" signature="bfrcls()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:00:29Z" name="bfrcls" finished-at="2022-04-22T13:00:31Z" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfrcls -->
+        <test-method signature="MD_Indexing_TC01()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:00:31Z" name="MD_Indexing_TC01" finished-at="2022-04-22T13:01:10Z" duration-ms="39290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MD_Indexing_TC01 -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:10Z" name="TearDown" finished-at="2022-04-22T13:01:10Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MD_Indexing_TC01 status=SUCCESS method=TestAutomation.MD_Indexing_TC01()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method signature="MD_Indexing_TC02()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:10Z" name="MD_Indexing_TC02" finished-at="2022-04-22T13:01:18Z" duration-ms="7855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MD_Indexing_TC02 -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:18Z" name="TearDown" finished-at="2022-04-22T13:01:18Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MD_Indexing_TC02 status=SUCCESS method=TestAutomation.MD_Indexing_TC02()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method signature="MD_Indexing_TC03()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:18Z" name="MD_Indexing_TC03" finished-at="2022-04-22T13:01:35Z" duration-ms="16661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MD_Indexing_TC03 -->
+        <test-method signature="MD_Indexing_TC04()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:35Z" name="MD_Indexing_TC04" finished-at="2022-04-22T13:01:45Z" duration-ms="9790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MD_Indexing_TC04 -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:35Z" name="TearDown" finished-at="2022-04-22T13:01:35Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MD_Indexing_TC03 status=SUCCESS method=TestAutomation.MD_Indexing_TC03()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:45Z" name="TearDown" finished-at="2022-04-22T13:01:45Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=MD_Indexing_TC04 status=SUCCESS method=TestAutomation.MD_Indexing_TC04()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="last()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:45Z" name="last" finished-at="2022-04-22T13:01:45Z" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+        <test-method is-config="true" signature="last_quit()[pri:0, instance:com.TestScriptTAP.TestAutomation@3f053c80]" started-at="2022-04-22T13:01:45Z" name="last_quit" finished-at="2022-04-22T13:01:45Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last_quit -->
+      </class> <!-- com.TestScriptTAP.TestAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
