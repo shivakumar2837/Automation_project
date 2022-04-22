@@ -1,0 +1,6 @@
+bin/
+.settings/
+DataSheet.xlsx
+log/
+debug.log
+ExtendReports/
